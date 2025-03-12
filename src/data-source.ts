@@ -7,7 +7,7 @@ export const AppDataSource = new DataSource({
     host: process.env.HOST || "localhost",
     port: 3306,
     username: process.env.USER || "root",
-    password: process.env.PASSWORD || "Dantalion6969%",
+    password: process.env.PASSWORD || "Sabnock2004$$",
     database: process.env.DATABASE || "node-mysql-crud-api",
     synchronize: true, // Set to false in production!
     logging: false,
